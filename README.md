@@ -1,5 +1,5 @@
 # Pharmacy Management DBMS Project
-A Database Course project for our university curiculam.
+A Database Course project for our University curriculum.
 
 ## Introduction
 Butt pharmacy is a real business which is currently operational in Gujrat. Employee management, stock availability, sales and purchases, supplier records, and order management are just a few of the manual organizational operations that are controlled by various people. Because these actions are managed through paper, there is no special means to maintain and retain the record of these activities for the future.
